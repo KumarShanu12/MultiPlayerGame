@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826774880078",
+    "firebase_url": "https://game-d7524.firebaseio.com",
+    "project_id": "game-d7524",
+    "storage_bucket": "game-d7524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826774880078:android:e458f8b20bb757c5",
+        "android_client_info": {
+          "package_name": "com.example.digsec.multiplayergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826774880078-g4b8c1pq0i4u0q2cvop81hmvt9pgosnm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digsec.multiplayergame",
+            "certificate_hash": "947043793c52685c0f41134211fb18c7014ecffa"
+          }
+        },
+        {
+          "client_id": "826774880078-6nop34e66lhkun64hr900cqnrps7qf5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Q_-PCStZIkEanJmD5Mkf4AK9jj53Ero"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826774880078-6nop34e66lhkun64hr900cqnrps7qf5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
